@@ -4,7 +4,7 @@
 É uma tag  HTML que vai dentro da seção head do código-fonte da página
 
 ## Para que é usado
-Serve para ajudar os rastreadores do Google a entender que determinadas páginas, subdomínios ou domínios de nível de código de países diferentes são direcionados para um país especifico. Com isso o hreflang marca corretamente as páginas da web informando que existem várias versões dessa mesma página.
+Usado para o Google ser capaz de entender em que língua está escrito o nosso site, sendo assim serve para ajudar os rastreadores do Google a entender determinadas páginas, subdomínios ou domínios de nível de código de países diferentes e direcionar para um país especifico. Com isso o hreflang marca corretamente as páginas da web informando que existem várias versões dessa mesma página.
 
 ## Como implementar
 - Em cada uma das páginas do nosso site devemos colocar uma ligação as versões desse conteúdo, em várias línguas. Se publicamos o site em portugues e inglês. Na versão em portugues deveremos colocar uma ligação à versão inglesa, e vice-versa.

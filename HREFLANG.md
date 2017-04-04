@@ -1,7 +1,7 @@
 # HREFLANG
 
 ## O que é hreflang
-É uma tag  HTML que vai dentro da seção <head> do código-fonte da página
+É uma tag  HTML que vai dentro da seção head do código-fonte da página
 
 ## Para que é usado
 Serve para ajudar os rastreadores do Google a entender que determinadas páginas, subdomínios ou domínios de nível de código de países diferentes são direcionados para um país especifico. Com isso o hreflang marca corretamente as páginas da web informando que existem várias versões dessa mesma página.
